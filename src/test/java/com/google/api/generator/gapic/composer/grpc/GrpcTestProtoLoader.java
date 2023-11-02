@@ -15,6 +15,7 @@
 package com.google.api.generator.gapic.composer.grpc;
 
 import com.google.api.generator.gapic.composer.common.TestProtoLoader;
+import com.google.api.generator.gapic.model.GapicContext;
 import com.google.api.generator.gapic.model.Transport;
 
 public class GrpcTestProtoLoader extends TestProtoLoader {
